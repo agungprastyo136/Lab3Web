@@ -1,0 +1,50 @@
+<title>Dropdown Menu</title>
+
+<html>
+<head>
+<style>
+.mainmenubtn {
+    background-color: #414845;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding:20px;
+    margin-top:20px;
+    min-width: 200px
+}
+.mainmenubtn:hover {
+    background-color: blue;
+    }
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-child {
+    display: none;
+    background-color: #613686;
+    min-width: 200px;
+}
+.dropdown-child a {
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown:hover .dropdown-child {
+    display: block;
+}
+</style>
+</head>
+
+<body>
+<div class="dropdown">
+  <button class="mainmenubtn">Jadwal MotoGP 2021</button>
+  <div class="dropdown-child">
+    <a href="http://wwww.yourdomain.com/page1.html">Grand Prix Losail Qatar 28/3/2021</a>
+    <a href="http://wwww.yourdomain.com/page2.html">Grand Prix Losail Doha Qatar 4/4/2021</a>
+    <a href="http://wwww.yourdomain.com/page3.html">Grand Premio Algarve Portugal 18/4/2021</a>
+    <a href="http://wwww.yourdomain.com/page4.html">Grand Premio Red Bull Jerez Spanyol 2/5/2021</a>
+  </div>
+</div>
+</body>
+</html> 
