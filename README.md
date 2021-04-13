@@ -18,7 +18,7 @@
 ![orderet dan unorderd](https://user-images.githubusercontent.com/56245855/114490606-594ca500-9c3f-11eb-946e-342aa1860ada.PNG)
 
 # Membuat Description List
-* Input
+* Input Masukan Kode berikut untuk membuat description List setelah pendeklarasian unorderd List
 
 ![Membuat description list_ST](https://user-images.githubusercontent.com/56245855/114490868-c829fe00-9c3f-11eb-9302-f75addad3add.PNG)
 
